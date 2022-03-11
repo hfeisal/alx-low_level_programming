@@ -3,3 +3,4 @@ a script that compiles a C file but does not link
 a script that generates the assembly code of a C code and save it in an output file
 a script that compiles a C file and creates an executable named
 Programming is like building a multilingual puzzle
+program that prints exactly with proper gramma but the output is a piece of art
