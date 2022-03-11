@@ -4,3 +4,4 @@ a script that generates the assembly code of a C code and save it in an output f
 a script that compiles a C file and creates an executable named
 Programming is like building a multilingual puzzle
 program that prints exactly with proper gramma but the output is a piece of art
+a C program that prints the size of various types on the computer it is compiled and run on
