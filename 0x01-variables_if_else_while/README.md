@@ -7,3 +7,4 @@ Write a program that prints all single digit numbers of base ten starting from z
 Write a program that prints all single digit numbers of baseten starting from zero followed by a line
 Write a program that prints the lowercase alphabet in reverse followed by a line
 program that prints all the numbers of base sixteen in lowercase followed by a line
+a program that prints all possible combinations of single-digit numbers
