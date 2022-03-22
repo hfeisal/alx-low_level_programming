@@ -1,9 +1,10 @@
 #include "main.h"
 /**
- * reset_to_98 - updates the value of the variable
- * the pointer points to to 98
- * @n: pointer to the variable to update
+ * reset_to_98 -n Take a pointer of an int a parameter ad updates the
+ * the pointer points to 98
+ * @n: Is the pointer to the variable to update
  */
+
 void reset_to_98(int *n)
 {
 		*n = 98;
